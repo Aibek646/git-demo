@@ -5,7 +5,3 @@ Standing strong
 On this their chosen battle field
 the Mac 
 =======
-On this their chosen battle field
->>>>>>> Stashed changes
-new content
-another content
