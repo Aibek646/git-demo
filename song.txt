@@ -4,3 +4,5 @@ Standing strong
 <<<<<<< Updated upstream
 new content aibek ramashka
 new content in feature branch
+
+for tag only
